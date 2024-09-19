@@ -50,7 +50,10 @@ export default function StarRating({
         {Array.from({ length: maxRating }, (_, i) => (
           <Star
             key={i}
-            onRate={() => handleRating(i + 1)}
+            onRate={() => {
+              handleRating(i + 1);
+              onSetRating(i + 1);
+            }}
             onHoverIn={() => setTemprating(i + 1)}
             onHoverOut={() => setTemprating(0)}
             color={color}
@@ -59,7 +62,7 @@ export default function StarRating({
           />
         ))}
       </div>
-      <p style={textStyle}>{messages[rating - 1] || ""}</p>
+      <p style={textStyle}>{!tempRating ? rating : tempRating}</p>
     </div>
   );
 }
