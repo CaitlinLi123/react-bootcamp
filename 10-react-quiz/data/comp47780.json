@@ -1,0 +1,477 @@
+{
+    "questions": [
+        {
+            "question": "Which of the following is an advantage of IaaS?",
+            "options": [
+                "Full infrastructure ownership",
+                "Low barriers to entry",
+                "Complete security control",
+                "No resource sharing"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which layer does IaaS represent in the cloud hierarchy?",
+            "options": [
+                "Topmost",
+                "Lowest",
+                "Middle",
+                "Not part of the hierarchy"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is NOT a feature of IaaS?",
+            "options": [
+                "Operating system management",
+                "Storage management",
+                "Load balancing",
+                "Increased network traffic"
+            ],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "What is the role of a Load Balancer in IaaS?",
+            "options": [
+                "To shut down servers during low traffic",
+                "To distribute traffic evenly across servers",
+                "To store backups in different locations",
+                "To improve the cooling system in data centers"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "What is a single point of failure in data centers?",
+            "options": [
+                "A fire in a redundant server",
+                "A weather event affecting one location",
+                "Multiple backups failing at once",
+                "A breach in server security"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is a disadvantage of IaaS?",
+            "options": [
+                "Interoperability issues",
+                "Scalability",
+                "Green IT support",
+                "Better resource utilization"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Which company is an IaaS provider?",
+            "options": [
+                "AWS",
+                "Facebook",
+                "Netflix",
+                "Slack"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is a function of a NAS device?",
+            "options": [
+                "Cooling systems",
+                "Storage access",
+                "Load balancing",
+                "Data traffic control"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which of these can cause performance issues in IaaS?",
+            "options": [
+                "Green IT",
+                "Resource sharing",
+                "On-demand scalability",
+                "Full system control"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "What does redundancy in IaaS provide?",
+            "options": [
+                "Higher costs",
+                "Backup systems and failover",
+                "Increased cooling",
+                "Single server usage"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "What does SaaS stand for?",
+            "options": [
+                "Software as a Solution",
+                "Software as a Service",
+                "Software and Systems",
+                "Systems and Solutions"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is an advantage of SaaS?",
+            "options": [
+                "No installation required",
+                "Full control over the infrastructure",
+                "Requires local storage",
+                "On-premise management"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "What is a key disadvantage of SaaS?",
+            "options": [
+                "High scalability",
+                "Data stored on the cloud",
+                "Automatic updates",
+                "Access from any location"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is NOT an example of a SaaS application?",
+            "options": [
+                "Customer Resource Management",
+                "IT Service Management",
+                "Microsoft Office 365",
+                "Google Cloud Platform"
+            ],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "What is a characteristic of multitenancy in SaaS?",
+            "options": [
+                "One instance serves one user",
+                "Multiple users share server resources",
+                "Users have dedicated servers",
+                "All users have different versions of software"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is a key characteristic of SaaS?",
+            "options": [
+                "User-based pricing",
+                "Requires physical installation",
+                "Limited scalability",
+                "Offline use"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "What is SaaS NOT suitable for?",
+            "options": [
+                "On-demand software",
+                "Real-time applications",
+                "High scalability",
+                "Multiple devices"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is a real-world example of SaaS?",
+            "options": [
+                "Google App Engine",
+                "Microsoft Azure",
+                "Office 365",
+                "VMware’s Cloud Foundry"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "What is the primary concern with SaaS when dealing with confidential data?",
+            "options": [
+                "Cost",
+                "Flexibility",
+                "Data security",
+                "Scalability"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "What does SaaS rely on for access?",
+            "options": [
+                "Local network",
+                "Internet connection",
+                "Data center installation",
+                "On-premise server"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "What is a common business service that uses SaaS?",
+            "options": [
+                "ERP",
+                "Operating System",
+                "Development Environment",
+                "Infrastructure Management"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "What allows SaaS applications to be accessed from multiple devices?",
+            "options": [
+                "Web access",
+                "Multitenancy",
+                "Local installation",
+                "Low latency"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is NOT a key SaaS characteristic?",
+            "options": [
+                "Web access",
+                "High availability",
+                "Requires constant local maintenance",
+                "Automatic updates"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Which service model is on top in the cloud infrastructure hierarchy?",
+            "options": [
+                "SaaS",
+                "PaaS",
+                "IaaS",
+                "Cloud-based applications"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "What is an example of SaaS in social networks?",
+            "options": [
+                "Facebook",
+                "Microsoft Teams",
+                "OpenOffice",
+                "Cloud Foundry"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Which is NOT a feature of SaaS?",
+            "options": [
+                "On-premise infrastructure",
+                "No installation required",
+                "Software hosted as a service",
+                "Accessible through the Internet"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "What is a key advantage of SaaS for businesses?",
+            "options": [
+                "Lower maintenance costs",
+                "Complete data control",
+                "Full customization",
+                "Offline capabilities"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Which term is used for software that is accessed as a service over the Internet?",
+            "options": [
+                "Infrastructure as a Service",
+                "Platform as a Service",
+                "Software as a Service",
+                "Network as a Service"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is NOT a disadvantage of SaaS?",
+            "options": [
+                "No control over the data",
+                "Requires internet connection",
+                "Difficult to integrate with other software",
+                "Multi-device support"
+            ],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "Which of the following SaaS examples offers mail services?",
+            "options": [
+                "Google Docs",
+                "Gmail",
+                "Facebook",
+                "YouTube"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "What does PaaS stand for?",
+            "options": [
+                "Platform as a Service",
+                "Programming as a Solution",
+                "Platform and Application Services",
+                "Product as a Service"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is an advantage of PaaS?",
+            "options": [
+                "Lower total cost of ownership",
+                "Full control over infrastructure",
+                "No programming needed",
+                "Requires on-premise installation"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "What does PaaS provide to developers?",
+            "options": [
+                "Hardware resources only",
+                "Software tools and infrastructure",
+                "Control over the data center",
+                "Local installation"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is NOT a benefit of PaaS for developers?",
+            "options": [
+                "Zero infrastructure",
+                "Lower risk",
+                "Custom server configuration",
+                "Reusable code"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Which service model provides middleware and infrastructure for SaaS providers?",
+            "options": [
+                "IaaS",
+                "SaaS",
+                "PaaS",
+                "Cloud Foundry"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is an example of a PaaS solution?",
+            "options": [
+                "Google App Engine",
+                "Microsoft Office 365",
+                "Facebook",
+                "Open SaaS"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "What is a disadvantage of PaaS?",
+            "options": [
+                "Security concerns",
+                "Easy scalability",
+                "Automatic updates",
+                "Focus on innovation"
+            ],
+            "correctOption": 0,
+            "points": 10
+        },
+        {
+            "question": "What does the cloud provide in the PaaS model?",
+            "options": [
+                "Full control over infrastructure",
+                "Middleware and infrastructure",
+                "Hardware only",
+                "Data centers"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which programming languages are typically supported by PaaS solutions?",
+            "options": [
+                "C++",
+                "Java, Python, Ruby",
+                "Swift",
+                "HTML"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "Which of the following is NOT part of the PaaS model?",
+            "options": [
+                "Language runtimes",
+                "Application frameworks",
+                "Custom operating systems",
+                "Message queues"
+            ],
+            "correctOption": 2,
+            "points": 10
+        },
+        {
+            "question": "What type of environment does PaaS offer?",
+            "options": [
+                "On-premise development",
+                "Stand-alone development",
+                "Only SaaS add-ons",
+                "General development and application delivery"
+            ],
+            "correctOption": 3,
+            "points": 10
+        },
+        {
+            "question": "What type of services can be built using PaaS APIs?",
+            "options": [
+                "Internet infrastructure",
+                "Cloud-specific programs",
+                "Custom servers",
+                "Networking protocols"
+            ],
+            "correctOption": 1,
+            "points": 10
+        },
+        {
+            "question": "What is the main focus for developers using PaaS?",
+            "options": [
+                "Innovations that provide business value",
+                "Server administration",
+                "Custom hardware",
+                "Data migration"
+            ],
+            "correctOption": 0,
+            "points": 10
+        }
+    ]
+}
